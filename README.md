@@ -90,3 +90,4 @@ Check your school job boards for postings.
 - Observability
   - logs, metrics, traces
 - App Security (OWASP)
+- Package management and tooling for that
