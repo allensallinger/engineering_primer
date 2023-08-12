@@ -36,13 +36,18 @@ To get the Syntax down the codecademy course works. Then just start tinkering on
 - Command Line tool to add numbers
   - This shows you how to accept input and you get something running
 
-- Hello World(Web App)
+- Hello World(Web App, APIs, Email)
+  - Call weather api to get weather
+  - Have a button that you click which will send an email to you based on an email you input from SendGrid
+
 
 - Web Scraper for a site(reddit)
   - learn about api calls
   - learn how to parse html and how info is stored and read on the internet
   - how to store data if you want to process it later(databases)
   - how to aggregate data using python(analytics/stats/data science)
+
+- Scrapper to see if links on a site are working
 
 - Port Scanner(Only use on your own network)
   - teaches about networking and ports
@@ -68,7 +73,11 @@ Interview for these will be a little more loose and they usually pay a bit more.
 Check your school job boards for postings.
 
 ## Things they didn't teach you at Uni
-- git
+- git/GitOps
+  - CI/CD
+- linting/formatting/type checking
+- testing(unit and integration)
+- database design(SQL and NoSQL)
 - docker
 - software architecture/system design
   - BE
@@ -76,3 +85,8 @@ Check your school job boards for postings.
   - Infrastructure
   - Queues/Distributed Systems
 - code reviews
+  - PR process and merging
+- searching logs
+- Observability
+  - logs, metrics, traces
+- App Security (OWASP)
